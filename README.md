@@ -1,5 +1,5 @@
 # 💫 About Me:
-Website design<br>
+I am Lehat Khalid, a passionate Front-End Developer with a knack for creating visually stunning and interactive websites. With a degree in Front-End Development, I specialize in bringing creative designs to life through engaging animations and innovative user interfaces. I have a keen eye for detail and a commitment to staying on the cutting edge of web technologies, ensuring I consistently deliver exceptional digital experiences that captivate and inspire users. Whether it's crafting seamless navigation or implementing dynamic visual effects, I am always eager to push the boundaries of web design and development.<br>
 
 
 ## 🌐 Socials:
